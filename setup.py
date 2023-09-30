@@ -8,7 +8,7 @@ from setuptools import setup
 setup(
     name="swaggerpy",
     version="0.2.2",
-    license="MIT",
+    license="BSD 3-Clause License",
     description="Library for accessing Swagger-enabled API's",
     author="Jorge Sisco",
     author_email="jorgesisco17@gmail.com",
